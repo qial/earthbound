@@ -844,23 +844,19 @@ Go down through Winters, across Lake Tess.
 
 Despawn the enemies by the pencil eraser the same way you despawned the goat as Jeff. 
 
-Use the Pencil eraser to get rid of the statue on the way. 
+Use Pencil Eraser on statue
 
-Teleport around the enemies and enter the cave 
-
-All the enemies in the cave will run away from you at this point so just walk through. 
+Walk through cave, enemies will run.
 
 Go into the lab. Use the revitalizer to refill your PP, then talk to the mouse to get the Eraser eraser. It should go into Paula's stuff. 
 
-Go down into Stonehenge. 
+Go to Stonehenge. 
 
-When you enter the first purple room, wait at the entrance for a few seconds. 
-This often causes the enemy after the eraser statue to despawn itself, which saves a lot more than a few seconds 
-Just in front of the eraser statue: 
+## Stonehenge Base (TODO STRATS)
 
-Move the Eraser eraser into Paula's inventory if Ness got it. 
-Drop the Casey Bat 
-Use the Eraser eraser to remove the statue. 
+When you first enter, wait at entrance for a few seconds to despawn starman.
+
+Move Eraser eraser to Paula, use it to remove statue.
 
 Try to run from most encounters in here. Have Ness hypnotize Mook Seniors before running. 
 
@@ -872,9 +868,12 @@ Have Poo use another Skip sandwich DX when you get to the bottom of the first la
 
 Pick up an Exit mouse. 
 
-Have Jeff launch an MBR at Starman Deluxe. Again, with the Crystal charm, the rocket should be a one-hit KO. 
+#### Starman Deluxe:
 
-Go into the room on the left and talk to Dr. Andonuts. 
+- Jeff MBR (Should kill it)
+- Paula/Poo FreezeB
+
+Go back to left room and talk to Dr. Andonuts
 
 Use the Exit mouse to get out. 
 
@@ -882,7 +881,7 @@ Bear attack: Run away
 
 Recover in Andonuts lab if someone is dead. 
 
-## Electro Specter 
+## Tenda pt2 and Lumine Hall
 
 Teleport to Onett and get Exit Mouse.
 
@@ -900,11 +899,13 @@ Talk to the strong guy to move the rock blocking the rope.
 
 **Talk to the rock at the bottom of the rope. ITS IMPORTANT!!**
 
-Go north to the rope at the dead end, near the gift box. Take that rope down. 
+#### Lumine Hall TODO (Maze Strats/reminders)
 
-Use Starstorm if you fight more than a couple Fobbies. 
-Hypnotize Uncontrollable Spheres and run from them. 
-Freeze everything else. 
+- Fobbies: Starstorm if more than a couple
+- Uncontrollable Spheres: Hypnotize and run
+- Others: Freeze 'em
+
+Go north to the rope at the dead end, near the gift box. Take that rope down. 
 
 Go around to the rope at the far end. Ignore the first rope you pass. 
 
@@ -920,34 +921,50 @@ Once you've gotten the Rabbit's foot, move the following out of Ness's inventory
 
 Go back up, learn the new melody, and fall down the hole. 
 
-**Plague Rat of Doom** 
+## Plague Rat Sanctuary
 
 Teleport into Fourside. 
 
 Go into the museum and try to enter without paying. Agree to pay. Talk to Mr. Spoon in the back. 
 
-Go over to the Topolla Theater and watch the Venus concert. Go backstage and talk to Venus. 
+Go to Topolla Theater and watch Venus concert. Go backstage and talk to Venus. 
 
 Go back to the museum and use the Signed banana on Mr. Spoon. 
 
+#### Sewers
+
+- Filthy Attach Roaches: Freeze
+- Others: Run
+
 Go into the sewer. Try to despawn enemies that are right near the ladder. 
 
-Get in the water and walk all the way over to the right. Freeze Filthy Attack Roaches; run from other fights. 
+Get in the water and walk all the way over to the right. 
 
-Fire a Multi bottle rocket at Plague Rat of Doom. 
+#### Plauge Rat of Doom:
+
+- Jeff MBR
+- Others Defend
 
 Go up, learn the new melody, and pick up the Carrot key. 
 
 Go back down into the sewer and use the Exit mouse. 
 
-Go outside. Without walking anywhere, use Teleport α to go to Dalaam. Hold down+right to run over the photo shoot trigger, then switch to up+right once you're in the street to finish the teleport. 
+When you exit, without walking anywhere, use Teleport α to go to Dalaam. Hold down+right to run over the photo shoot trigger, then switch to up+right once you're in the street to finish the teleport. 
 
-**Thunder and Storm** 
-Go down to the south end of Dalaam and use the Carrot key on the statues. 
-Take the ropes up. Have Poo use a Skip sandwich DX when you hit the top part to help avoid enemies. Run from all encounters in here. 
+## Pink Cloud
+
+Note: RUN from all encounters
+
+Use Carrot Key on statues in south Dalaam
+
+Take the ropes up. Have Poo use a Skip sandwich DX when you hit the top.
+
 Always fall down the hole farthest to the left. 
 
-For Thunder and Storm, have Jeff fire a Multi bottle rocket, and Poo use Starstorm just in case the MBR doesn't do enough damage (Jeff will usually attack before Poo thanks to the Crystal charm's speed boost). 
+#### Thunder & Storm:
+
+- Jeff: MBR
+- Poo: StarstormA
 
 Learn the new melody. 
 
@@ -955,24 +972,25 @@ Go back in and fall down the hole on the right side.
 
 Take the ropes back up and out. 
 
-Teleport to Onett. 
+## Lost Underworld Fun
 
-**Diamond Dog** 
-
-You can run from the dinosaurs and kind of run from enemies in Fire Spring.  
-It is best to have Paula use  freeze and Poo bash Soul Consuming Flames rather than trying to run from them, but you can run if you're willing to accept the risk.  
-
-You can hypnotize Evil Elementals and Super Phychic Phychos to make it easier to run. 
-
-Go to the south end of town and pick up another Exit mouse. 
+Teleport to Onett and get another Exit Mouse.
 
 Teleport to the Lost Underworld. 
 
+#### Enemies:
+
+- Dinosaurs: Run
+- Soul Consuming Flame: Freeze/bash
+- Elementals/Psychos: Hypnotize & run
+
 Go northeast a bit and pick up the Sea pendant. It should go to either Ness or Paula. Equip it on Poo so that he can revive if the rest of the party wipes. Alternativly you can equip it on Ness to save some menuing later. 
 
-Go all the way west, then go south to the entrance to Fire Spring. 
+Go west, then South to Fire Spring
 
-Walk to the right and stop at the bottom of the rope. Wait a few seconds here so the enemy that usually spawns to the right will hopefully despawn itself 
+#### Fire Spring: (TODO Maze Notes)
+
+Walk to the right and stop at bottom of rope for a couple seconds to despawn enemy.
 
 Keep going to the right and enter the second door. Go in and out of this door until either the passage is clear or the enemies are both running from you. In the latter case, try to ambush them. 
 
@@ -1002,25 +1020,21 @@ Diamond dog should hopefully be dead by this point, but if not, have Paula and P
 
 Learn the melody of Fire Spring, then use your Exit mouse. 
 
-Teleport to Onett. 
+## Mondo Mole
 
-Mondo Mole 
-
-Pick up another Exit mouse. 
+Teleport to Onett, get another Exit mouse. 
 
 Teleport to Twoson. 
 
-Walk over to Peaceful Rest Valley and continue on into Happy-Happy Village. 
+Walk to Peaceful Rest Valley and continue on into Happy-Happy Village. 
 
-Walk over to Mondo Mole and auto fight him to death. None of the enemies should come after you at your current level. 
+Walk to Mondo Mole and auto fight him to death. None of the enemies should come after you at your current level. 
 
 Learn the melody, then use the Exit mouse to get out. 
 
-Teleport to Saturn Valley. 
+## Trillionage Sprout
 
-If you teleport as soon as you exit the cave, you can use Teleport α and just go left. 
-
-Trillionage Sprout 
+Teleport to Saturn Valley, teleport as soon as you leave the cave and hold left
 
 Go through the cave up to the middle platform and take the ladder on the right to the top. 
 
