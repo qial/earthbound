@@ -878,29 +878,27 @@ Go into the room on the left and talk to Dr. Andonuts.
 
 Use the Exit mouse to get out. 
 
-If youget ambushed by a bear just run away 
+Bear attack: Run away
 
-If your party has 1 or more dead characters or you are low on pp you can recover in andonuts lab 
+Recover in Andonuts lab if someone is dead. 
 
-Teleport to Onett. 
+## Electro Specter 
 
-Electro Specter 
+Teleport to Onett and get Exit Mouse.
 
-Walk to the south end of town and get an Exit mouse. 
-
-Teleport to Onett again. 
-
-Go into the library. Go into the right room on the first floor and check the left end of the bookshelf to get the Shyness book. 
+Teleport to Onett again, go to Library, right room, check left end of bookshelf for Shyness book.
 
 Teleport to Tenda Village. 
 
 Use the Shyness book on the elder. Confirm that you want a short name. 
-Give the tendacrout to Paula or Poo 
-Talk to the elder to get a Bag of Dragonite, which should now go to Ness. 
+
+Give Tendacrout to Paula or Poo 
+
+Talk to the elder to get a Bag of Dragonite, move to Ness
 
 Talk to the strong guy to move the rock blocking the rope. 
 
-Talk to the rock at the bottom of the rope. ITS IMPORTANT!! 
+**Talk to the rock at the bottom of the rope. ITS IMPORTANT!!**
 
 Go north to the rope at the dead end, near the gift box. Take that rope down. 
 
