@@ -1036,30 +1036,38 @@ Learn the melody, then use the Exit mouse to get out.
 
 Teleport to Saturn Valley, teleport as soon as you leave the cave and hold left
 
-Go through the cave up to the middle platform and take the ladder on the right to the top. 
+Go up to the hot springs.
 
 Hug the right side of the hot spring and then hug the sign next to the entrance to Milky Well before going in. This avoids the photo shoot right in front of the entrance. 
 
-Have Poo use a Skip sandwich DX somewhere in the first tunnel to help you run past enemies. Some of them will chase you, some won't. You can either run from the ones who attack you or use Starstorm. 
+Use Poo SkipDX in the first tunnel to run from enemies. If any attack, use StarstormA
 
-If you have at least 4 Multi bottle rockets left, fire one at Trillionage Sprout. You should probably still fire one even if you just have 3, unless you're worried about making Giygas riskier. If you're down to 2, use Rockin/Fire/Starstorm until you win. 
+#### Trillionage Sprout:
 
-Before going past the shining spot, have Jeff give the Rabbit's foot to Ness and Poo give Ness the Sea pendant(if he has it) and equip it on Ness. 
+- 4+ MBR, use MBR. (3+ fine, but makes Giygas riskier)
+- 2 MBR, use Rockin/Fire/Starstorm until you win
 
-In a serious run, you probably shouldn't pause to check your inventory, but if you must, Ness should have these, among other things: 
+Before going to sanctuary:
 
-Rabbit's foot (equipped) 
-Night pendant or Sea pendant 
-Franklin badge 
-2 Bags of Dragonite 
-2 Super bombs 
-2 Skip sandwich DXes 
+- Give Rabbit's Foot & Sea Pendant to Ness and equip
+
+Ness Check:
+
+- Rabbit's foot (equipped) 
+- Night pendant or Sea pendant 
+- Franklin badge 
+- 2 Bags of Dragonite 
+- 2 Super bombs 
+- 2 Skip sandwich DXes 
 
 Learn the final melody and go on into Magicant. 
 
-Ness's Nightmare 
+## Magicant TODO: Maze Strats Rewrite
 
-With the Rabbit's foot equipped, you can run from all of the enemies in Magicant in a few turns except the Loaded Dice. Use Paralysis on those before attempting to run. You can also hypnotize Uncontrollable Spheres and French Kisses of Death. 
+- Loaded Dice: Paralysis first
+- Run from all else, with Rabbit's Foot it shouldn't be too many turns
+- Uncontrollable Spheres: hypnotize if needed
+- French Kiss of Death: hypnotize if needed
 
 Walk up to the red part of Magicant. Use a Skip sandwich DX to help you dodge enemies and open up an inventory slot. 
 
@@ -1079,17 +1087,24 @@ Try to get the second Kraken stuck behind one of the spires so you can get aroun
 
 Try to avoid the third Kraken completely. 
 
-Fight Ness's Nightmare. Use your three Bags of Dragonite, then switch to Super bombs. If that's not enough, you can try bashing and hoping for a smash. If you have to. stall out the fight using lifeup and defending until he runs out of pp then bash it to death. Hopefully it doesn't come to that though. 
+#### Ness's Nightmare
 
-**Phase Distorter** 
+- Use 3 Bags of Dragonite
+- Then Super Bombs
+- Bash after. 
+- Worst case stall out using lifeups until NN PP runs out then bash to death.
 
-Equip the Rabbit's foot on Ness again when you get back. 
+## Phase Distorter 
+
+Teleport to Saturn Valley
+
+Equip the Rabbit's foot on Ness
 
 Talk to Dr. Andonuts and get in the Phase Distorter. Tell Dr. Andonuts that you have seen a meteorite recently. 
 
 Teleport to Onett. 
 
-Walk up to the meteorite. Use Teleport α to dodge enemies. If you get in a fight, just run. Only Ness needs to be alive for this part (though having multiple party members helps if someone gets diamondized). 
+Walk to meteorite. Just run from fights, only Ness needs to be alive.
 
 Check the meteorite to get the Meteorite piece. Teleport back to Saturn Valley. 
 
