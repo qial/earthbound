@@ -12,241 +12,165 @@ Any time there is text mash with A and L-trigger as fast as you can. Note that d
 
 Despawning: if you walk off and back on screen when you see an enemy you can despawn them. horizontal enemies take about 1/3 of a screen and vertical enemies take about 1/2 
 
-**Intro** 
+## Intro
 
 Choose one letter character names to minimize the time the game will spend drawing them. 
 
-Grab the bat in Tracy's room. Walk underneath the desk to avoid her running into you. 
+Grab bat from Tracy's room.
 
-Climb the hill, talk to Pokey, and return home. Say, "Yes," when asked if you'd like to go back to sleep. 
+Go talk to Pokey, return home and say Yes to mom.
 
-Walk downstairs and open the door. Agree to join Pokey, then talk to your mom to change clothes. 
-
-Talk to Pokey again to have him join your party. Try to leave the house, then answer the phone. 
-
-Leave the house. Proceed to the top of the hill. 
-
-there are 3 enemies that can spawn on this hill: Dogs, Crows, and snakes 
-Dogs: despawn entirely 
-Crows: they have a swaying pattern and if they appear to be "stuck" you can run past them 
-snakes: if you feel confident stutterstepping you can stutter past these enemies, otherwise despawn 
-
+Answer the door, talk to pokey and then mom. Talk to pokey and then dad.
 
 Talk to Picky at the top of the hill. Answer, "Yes," to the questions asked by Pokey and Buzz-buzz. 
 
-Pick up the Bread roll on the way back down the hill. ( we get it now as accidental crow fights can't steal it) 
+Get bread roll on way back down.
 
-Use Auto fight through the entire Starman Junior battle. 
+Auto-fight Starman Jr.
 
-Go into Pokey's house and talk to his dad. 
+Go to Pokey's house, talk to dad.
 
-Leave the house, getting the Sound stone from Buzz-buzz on the way. Answer, "Yes," to his first question and, "No," to his second. 
+Remember to say No to buzz buzz's second question
 
-**Frank** 
+## Onett
 
-Get the Mr. Baseball cap from the treehouse west of the library and equip it immediately. 
+Get Mr. Baseball cap and equip immediately.
 
-Pick up the Hamburger from the trash can next to the burger shop. 
+Get hamburger from trashcan. 
 
-Go into the drugstore. 
+Withdraw $40 from drugstore ATM and buy:
+- Tee-ball Bat
+- Baseball Cap
+- Cheap Bracelet
 
-Withdraw $40 from the ATM. 
+Walk to arcade, go wide behind Hospital to avoid shark spawns
 
-Talk to the shopkeeper on the right. 
+Fight the Pogo Punk south of arcade, eat bread roll if you are below 30HP
 
-Buy the Tee ball bat and equip it, selling back the Cracked bat in the process. 
+Heal before Frank, prefer lifeups
 
-Buy the Baseball cap, equip it, and sell the Mr. Baseball Cap. 
+Frank:
+- Heal if damaged, otherwise bash.
 
-Buy the cheap bracelet and equip it. 
+After Frankystein, go inside arcade and then talk to Frank again to heal.
 
-Walk down to the arcade. Do not fight any Sharks that randomly spawn. 
+## Giant Step
 
-If you walk along the left side of the street to the left of the drugstore, then walk right along the top of the hospital, you can prevent the Sharks from spawning.  
+Go to city hall, then buy more burgers if needed.
 
-Fight the Pogo Punk NPC standing south of the arcade entrance. If you are below 30 HP or so after the fight, heal with the Bread roll. 
+Go to giant step cave, fight 22 slugs.
 
-This fight gets you a guaranteed Hamburger drop and sets up Ness to reach level 5 before Frankystein. 
+When you get to level 8, check stats. 24 offense preferred.
 
-Go into the arcade and fight the Pogo Punk who accosts you on the bottom floor. 
+Lifeup and grab butterflies before Ant.
 
-Fight the Yes Man Junior blocking the door. 
+Pick up the Hamburger from the gift box in the first room. 
 
-Heal before fighting Frank. Prefer Lifeup — do not use Hamburgers unless you have no choice. 
-Fight Frank. If you take damage, heal. Otherwise, bash. 
+Make sure Ness has 65+ HP, use a burger if needed.
 
-If Ness runs out of PP, consider simply bashing and hoping you survive. If you need to use Hamburgers, you probably aren't having a good fight, and you'll make things harder in later splits since you won't have as many healing items. For casual runs, use up your Hambugers if you need to, and plan to buy more later. 
-
-Fight Frankystein. It attacks every other turn, starting with the second. The second attack will likely do 15-20 damage; later attacks have a chance of being in the 35-40 range. Bash through the fight and heal as necessary. 
-
-After defeating Frankystein, enter the arcade, then immediately go out the back door again and talk to Frank to restore your HP and PP. If Ness has 10+ PP and 40+ HP, you may consider skipping this. 
-
-**Titanic Ant** 
-
-Go into the city hall and talk to the mayor to get the Key to the shack (agree not to accept any responsibility). 
-
-You can buy more burgers now to be safe at this point or if you want to play risky you can progress with what you have. If you have used any burgers on frank it is highly recommended that you buy more. 
-
-Walk up to the entertainer's shack and use the Key to the shack on the door to enter. Proceed into Giant Step. 
-
-You can avoid the, "The door is locked," text by using the trees south of the shack to line you up with the right side of the door. 
-
-Fight Attack Slugs until you reach level 8. Avoid fighting Black Antoids and Rowdy Mice as they take longer to fight than Slugs (stutter-stepping can help with this). Use Lifeup to heal as necessary. Avoid using Hamburgers in this part of Giant Step. If you manage to only fight slugs the amount of slugs you need to kill is 22.  
-
-Note 1: Black dots on the bottom floor are always slugs. On floors 2 if its not a group of 4 dots close together assume they are ants. On floor 3 slugs come in packs of 6. Typically you want to fight 4 packs of 4 on floor 1 and a group of 6 on floor 3. 
-
-Note 2: If on floor 1 you decide to go in any of the doors, the black dots inside will always be antoids. 
-
-Once you get level 8 open up your stats menu. Check your offense, if you have 23 offense avoid fighting ants, if you have 24 or 25 offense you are able to insta-kill ants on contact as long as its a single ant. 
-
-Go outside and use lifeup. There should be a butterfly outside. Grab the butterfly and walk to the right edge of the cliff to respawn another butterfly in. You want to have full pp for titanic ant. 
-
-Proceed toward Titanic Ant. Pick up the Hamburger from the gift box in the first room. 
-
-Avoid fighting more than one Antoid at a time. If you have 23 offense try to either despawn the antoids completly or try to stutterstep past them. 
-
-Use a Hamburger to recover Ness's HP if he's below 65 or so before fighting Titanic Ant. Avoid using Lifeup between the magic butterfly and the fight. 
-
-Fight Titanic Ant. Use Rockin α twice ASAP, then bash. If you can afford the PP, use Lifeup to heal the first time (if the Ant uses Magnet, prioritize getting in two Rockins). Heal with Hamburgers after that. if you bought extra burgers before this fight. heal anytime he hits you after you use your 2 rockins. If you didn't buy extra burgers you may want to heal anytime you go below 50. Note however that Titanic ant can do over 60 damage if he manages to get a SMASH. 
+## Titanic Ant
+- Rockin A twice, then bash
+- Lifeup if you can
+- Eat a burger any time you get hit.
 
 Visit Giant Step. 
 
-Walk back down to the entrance. 
+Walk back, answer No to the cop.
 
-Answer, "No," to the police officer's question. 
+## Police Brutality
 
-**Captain Strong** 
+Buy up to 4-5 burgers. Go to police station.
 
-If you are low on burgers you can choose to buy more. 4-5 burgers is usually pretty safe 
+Cops:
+- Burger if HP below 55
+- Lifeup if HP below 30
 
-Walk to the police station and tell Captain Strong that you want to go to Twoson. 
+Captain Strong:
+- 2 Rockins if you can
+- Bash away
 
-Bash the cops. Use burgers to recover if your HP drop below 55 (can try going down to 50 if you're low of burgers). Use lifeup if ness is below 30hp Try to keep 20pp for captain strong. 
+Walk down to Twoson, get an Exit Mouse
 
-If you have 20pp captain strong will usually go down with 2 rockins. otherwise bash and heal if your hp goes down. captain strong has a chance to do in the mid 40's in damage so keep that in mind when deciding to heal. 
+Pick up the Hamburger unless you have 3+
 
-Walk down the road out of Onett. Pick up an Exit mouse on the way. 
+## Pencil Eraser
 
-Grab the Hamburger by the side of the road unless you have three or more left. 
+Go to Department store, withdraw $500 from ATM and save.
 
-Walk into Twoson. Stay away from trees that could hide mushrooms behind them. 
+Go to Apple Kid, give him food, get Receiver Phone
 
-**Pencil Eraser** 
+Walk to PRV, Pencil Statue spawns at the fourth grass clump.
 
-Walk into the Twoson department store (go southeast from the entrance to Twoson) and withdraw $500 from the ATM. Save using the payphone there. (This sets up a deathwarp later.) 
+Go back and get the Pencil Eraser
 
-If you bought Hamburgers earlier, withdraw enough cash to get up to at least $500. 
+## Mr. Carpainter
 
-Walk down to Apple Kid's. Feed him one of your burgers (or some other food item if you got one from enemies) and pay him $200. Get the Receiver phone. 
+Butterfly Locations in PRV:
+- Just after the first bridge you cross, at the valley's northwest corner. 
+- To the east of the broken bridge, on the west side of the peninsula in the middle. 
+- Near the bend at the northeast side of the valley, before you head south past the cabin. 
 
-Walk into Peaceful Rest Valley. Try to pick up a magic butterfly on the way. Unless Ness is at full health, use Lifeup immediately after getting the butterfly. 
+Kill any enemies with Rockin, running away has a low chance of working.
 
-Get close enough to the pencil statue that you can see it, then walk back to Twoson. This should trigger the phone call from Apple Kid when you get back. 
+Go to Drug Store
 
-Talk to Apple Kid in the southwest corner of Burglin Park. 
+Inventory:
+- Drop any cookies or bread rolls
+- Buy Sand Lot Bat
+- Buy Holmes Hat
+- 2 Refreshing herbs
+- Croissants to get 2 healing items.
+- Keep 1 inventory slot open
 
-**Mr. Carpainter** 
+If there are ever 2 cultists in battle, use Rockin.
 
-Go back into Peaceful Rest Valley. Use the Pencil eraser to remove the pencil statue, then proceed into Happy-Happy Village. You want to get enough magic butterflies along the way to restore Ness to full HP and PP. There are three places where butterflies commonly spawn: 
-1)Just after the first bridge you cross, at the valley's northwest corner. 
-2)To the east of the broken bridge, on the west side of the peninsula in the middle. 
-3)Near the bend at the northeast side of the valley, before you head south past the cabin. 
+Go to Paula and get Franklin Badge. 
 
-If you accidentally get in any fights here use rockin to finish the fights as fast as possible. The chance of running away from the enemies here is really low so its usually safer to fight. If you don't have any pp and are fighting sprouts you may consider trying to run as these enemies can call for help. 
+Go to Carpainter, don't heal before fight.
 
-Stop in the drugstore. 
+#### Carpainter:
+- Agree to be right-hand man.
+- Wait to use Rockin on second turn.
+- Order is lightning -> lifeup -> regular attack
+- When shielded, don't lifeup turn after paint attack (can cause a miss)
 
-If you have leftover Cookies or Bread rolls, drop them now. 
+Drop any remaining Burgers and Croissants
 
-From the shopkeeper on the right: 
+Pick up Skip Sandwich from left-hand present on your way out.
 
-Buy the Sand lot bat and equip it, selling back the Tee ball bat. 
+Rescue Paula
 
-Buy the Holmes hat and equip it, selling back the Baseball cap. 
+60+ HP, walk back, otherwise go for death warp.
 
-From the shopkeeper on the left: 
+#### Deathwarp
+- Give Cheap Bracelet and Holmes Hat to Paula
+- Drop the Teddy Bear
+- ATM Card and Paula bash
+- After death, withdraw all money from ATM
+- Equip Holmes Hat and Cheap Bracelet on Paula
+- Revive Paula, go to Preschool
 
-Buy two Refreshing herbs. 
+#### Walk Back
+- Give Cheap Bracelet and Holmes Hat to Paula & equip
+- Paula freeze any enemies
+- Withdraw $400 from Bus station ATM
+- Go to Preschool
 
-Buy enough Croissants to bring you up to two healing items (either Croissants or Hamburgers). Make sure you have at least 1 open inventory slot 
+Enter school, talk to dad. Get Teddy bear from Paula's room.
 
-Walk through the tunnel to the left of the drugstore. Avoid any cultist fights. If you manage to get ambushed you will have to fight as it is impossible to run away from cultist. 
+Get Wad of Bills from Everdred
 
-RULE OF 2: if at any point there are 2 cultist on the battle field use rockin. Even if they are at full health as they have a chance to call for help 
+Get the backstage pass, enter theatre
 
-Enter the cabin and talk to Paula. 
+Move Backstage pass to Paula, equip the hat and bracelet
 
-Fight the Cultists outside. Remembering the rule of 2 posted above 
+Talk to girl and go backstage, then watch the show.
 
-Heal with a Croissant or Hamburger after the fight if Ness is low on HP. 
-Enter the village hall and go toward Carpainter. Don't get any of the items just yet. If Ness has 20+ PP, you may consider using Rockin to open the fight with the one mandatory Cultist. Otherwise, it's probably better to save it in case the Cultists calls for help. 
+Go to manager's office, give him the Wad of Bills
 
-make sure you have at least 1 open inventory slot but do NOT heal right before the Carpainter fight. 
+Exit (avoid photo) and get on the bus.
 
-Fight Carpainter. Agree to become his right-hand man. There are a couple approaches you can take in this fight: 
-
-If Ness has 20+ PP, or you're feeling gutsy, go for a one-round KO by using Rockin in the first turn. If both of Carpainter's lightning strikes connect, you will win. 
-
-If you're feeling less gutsy, wait until the 2nd turn to use Rockin, since Carpainter will use Lifeup in the second turn and recover all the damage you would have dealt. if you have less than 23 hp heal with an this turn. 
-
-On turn 3 he will bash. If you have between 23-50hp heal on this turn. You want to try to keep your hp low for the deathwarp so don't use lifeup unless you have no other options. 
-
-Once Carpainter has put up his psychic shield, make sure that you do not use Lifeup the turn after he utilizes a paint attack (unless you have taken mortal damage). If you use Lifeup then, a reflected Thunder attack can miss (video). Carpainter attacks once every three turns, so you can heal on the following turn. 
-
-If you have a Hamburger or Crossaint left in Ness's inventory, drop it 
-
-Pick up the Skip sandwich from the left-hand present on the way out. 
-
-Use the Key to the cabin on the cell door to rescue Paula. 
-
-Check your health. If you have 60 or more hp you may want to consider walking back to Twoson as the bridge will be fixed now. This can also set you up safer for later as you will have an extra teddy bear to work with later. (in this situation skip to the section Titled WALK BACK) 
-
-If you Have less than 60 hp you want to set up for the deathwarp In this case follow these steps 
-
-**Deathwarp** 
-
-Rearrange your inventory to make dying faster: 
-
-Open ness's inventory and give the cheap bracelet and holmes hat to paula (do not requip) 
-
-Have Paula drop the Teddy bear. 
-
-Go into the Lilliput Steps cave and purposefully get red swirled by the Mole Playing Rough that should spawn near the entrance. Have Ness use the ATM card and Paula attack until both Ness and Paula are dead. Say that you want to continue playing. 
-
-Withdraw all the money from the ATM once you have death warped back to Twoson Dept Store. 
-
-Go northeast to the hospital and revive Paula. 
-
-Go south to the preschool. (SKip next section and proceed to "Preschool" section) 
-
-**WALK BACK** 
-(skip to preschool if you chose to deathwarp) 
-
-give the cheap bracelet and holmes hat to paula and equip them . 
-
-walk and leave happy happy village from the left. Walk back to twoson and use the new fixed bridge to get back faster. If you get in a fight with a ufo or spinning robo, Paula can 1 shot them with freeze 
-
-When you get back to twoson stop at the bus station and Withdraw $400 then walk to the preschool 
-
-**Preschool** 
-
-Enter the school and go left to the middle room to trigger Paula's fathers dialogue. Go up into Paula's room and get the Teddy bear from the gift box. (If you chose to walk back you can skip this but its still safer to pick it up) 
-
-Go talk to Everdred to get the Wad of bills. 
-
-Head over to the east side of the Chaos Theater and talk to the guy in green to get the Backstage pass. 
-
-Enter the Chaos Theater from the right. Hug the front wall of the theater to avoid triggering a photo shoot. 
-
-Before using the Backstage Pass on the ticket vendor, take this time to move the Backstage Pass over to Paula and equip the Cheap Bracelet and Holmes Hat on her. 
-
-Talk to the girl on the left side of the room to go backstage, then immediately leave the backstage area. Watch the show. 
-
-Walk into the office, go behind the desk, and use the Wad of bills on Mr. Poochyfud. 
-
-Hold right when leaving the theater to avoid the photo shoot. It's safe to go south when Ness is completely past the flat wall to the right of the door. You can cross just north of the streetpost, though it might be easier to just go around to the south. Talk to the guy in red and tell him you want to go to Threed. 
-
-Get on the bus. 
+## Threed
 
 Go to the graveyard to the Northwest of town. Use the gravestones to help you block possible spawns. 
 
@@ -1118,15 +1042,15 @@ Get in the Phase Distorter.
 
 If you're out of Cups of Lifenoodles, check the wrecked Phase Distorter for a Horn of Life. 
 
-Walk about halfway down the upper peninsula, then turn around and go back to spawn Dr. Andonuts and Apple Kid. 
-Talk to Apple Kid, then to Dr. Andonuts, and then to Andonuts again after he walks to the end of the peninsula. Keep saying, "Yes," when he asks. 
+Walk halfway on upper peninsula, then back to spawn conversations. Talk to Andonuts to go to past.
 
-**Giygas** 
+## Cave of the Past
 
-Run through the past, to Giygas's lair. Have Poo use Skip sandwiches to minimize the fights you get in. Run from everything. 
-When you get into Giygas's lair, rearrange your inventory as follows: 
+Run through the past, using Poo's SkipDX. Run from everything.
 
-Give the Sea pendant to Paula, if Ness has it. 
+#### Giygas:
+
+Give the Sea pendant to Paula & equip.
 Give the Franklin badge to Paula. 
 Give the Rabbit's foot to Jeff 
 Give the horn of life or a cup of life noodles to Poo 
