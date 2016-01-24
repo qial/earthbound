@@ -172,64 +172,48 @@ Exit (avoid photo) and get on the bus.
 
 ## Threed
 
-Go to the graveyard to the Northwest of town. Use the gravestones to help you block possible spawns. 
+Go to graveyard and see Zombies
 
-Walk up to the zombies at the northwest end of town and let them see you (watch for when they turn around). Go back to the hotel and follow the woman inside. 
+Follow woman into hotel, you will get a full heal here
 
-There are no spawn tiles between the north row of tombstones and the trees, so it's easiest to walk through there. 
-Watch out for flies spawning behind the trees near the zombies. If you see flies up there, try walking down toward the dead tree (you don't need to walk all the way down) to despawn them. 
+Try to leave jail. 
 
-Follow the woman into the room on the left. Note that all party members are healed and if either party member is dead they will be revived at this point. Try to leave the prison once you've been captured. 
+## Winters
 
-**Jeff's Adventures in Winters** 
+Walk to Maxwell's room, get Key to the locker, then Bad Key Machine
 
-Walk down into Maxwell's room, on the left side of the bottom floor. Talk to him. Use the Key to the locker on one of the lockers in the room on the right (it doesn't matter which one), then go back and talk to Maxwell again to get the Bad key machine. 
+Leftmost bottom locker and rightmost top locker. Equip both Pop Gun and Holmes Hat
 
-Use the Bad key machine on the leftmost locker in the bottom row and the rightmost locker in the top row. This will get you the Pop gun and Holmes hat. Equip both. 
+Leave the school, jump over Tony
 
-Leave the school and talk to Tony to jump over the gate. 
+Go into the drugstore, Talk to the woman and then talk to Bubble Monkey
 
-Go into the drugstore and talk to the woman. Agree to buy gum from her. Talk to Bubble Monkey. 
+Go to the far left tent and eat stew.
 
-Walk down near the shores of Lake Tess. Go into the tent on the far left and have some stew. 
+Walk to tessie (Avoid photo at third tent)
 
-Walk over to the dirt patch on the peninsula to the east to trigger the lake crossing. There are a couple things to watch for: 
-There is a photo shoot between the eastmost tent and the lake. You can avoid it by either going around the north side of the tent or very carefully walking along the southern edge of the tent. 
+After Tessie, go down-left and hug wall.
 
-You want Bubble Monkey to be close to Jeff when you reach the dirt patch. Otherwise, Bubble Monkey will walk very slowly over to Jeff to get his piece of gum. If Bubble Monkey is lagging behind, wiggle a bit to encourage him to catch up. 
+Autofight protoplasm, run if it calls for help
 
-After Tessie, walk down and left, then hug the left wall to prevent a Gruff  from spawning  
+Use the Boiled Egg if Jeff took Damage
 
-Enter the Brick Road dungeon. Take the bottom path to fight the first Worthless Protoplasm. Autofight the Protoplasm to death. Run if it calls for help and you don't kill the first one soon after. 
+Try to sneak past the Mad Duck, get croissant near it if low on health
 
-This is one of the hardest fights in the game, no joke. 
+Skip the protoplasm.
 
-Use the boiled egg after this fight if you took damage 
+Go through Pond Cave
 
-See if you can sneak past the Mad Duck. None of the enemies in here can ambush you, so don't worry about that. 
-If Jeff is low on health, pick up the Croissant from the gift box near the Mad Duck and eat it. 
+Hamburger in gift box in first room if Jeff is too low on HP
 
-Try to skip the second Worthless Protoplasm, but don't worry too much if you don't. 
+Get Bottle Rocket from gift box in last room.
 
-To set up the skip, walk along the top edge of the path, then, when the Protoplasm starts moving toward you, walk straight down so you're on the row below it and continue going to the left. You will go past the Protoplasm if Bubble Monkey doesn't get caught  
+Go talk to Dr. Andonuts, say "No" to the first question
 
-Ignore Brick Road and proceed into the cave. 
+Enter Sky Runner, enjoy 2 minute break.
 
-Pond cave is full of enemy spawns that all can be stutter stepped away from. over all the passages are too narrow to safely stutter pass them so try to use stutter steps when despawning to reduce the length of ground you have to walk from enemies chasing you. All the enemies here can be stutter stepped around except for the mushrooms. 
+## Mini Barf
 
-Only get the Hamburger (from the gift box in the first room) if Jeff is critically low on HP and you're worried about getting into fights in the cave (eat it immediately if you do get it). 
-
-Pick up the Bottle rocket from the gift box near the crystals in the last room. 
-
-Use the Pak of bubble gum near the rope in the last room to climb up. Try to get Bubble Monkey next to Jeff when you do this since Bubble Monkey flies very slowly. 
-
-Go into the lab and talk to Dr. Andonuts. Say, "No," to the first question (the one about the donut). The answer to the second question (about Stonehenge) doesn't matter. 
-
-Enter the Sky Runner and mash A until the Sky Runner lifts off. 
-
-The first Sky Runner cutscene takes a little over 2 minutes and requires no inputs once the Sky Runner has lifted off, so this is a good time for a quick break. 
-
-**Mini Barf** 
 Agree to let Jeff join the party. 
 
 Use the Bad key machine on the door to leave the prison. 
