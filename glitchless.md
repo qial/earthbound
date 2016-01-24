@@ -176,57 +176,44 @@ Go to graveyard & see zombies
 
 Go to hotel and get bonk'd (full heal here)
 
-Try to escape
+Try to leave jail. 
 
-**Jeff's Adventures in Winters** 
+## Winters
 
-Walk down into Maxwell's room, on the left side of the bottom floor. Talk to him. Use the Key to the locker on one of the lockers in the room on the right (it doesn't matter which one), then go back and talk to Maxwell again to get the Bad key machine. 
+Walk to Maxwell's room, get Key to the locker, then Bad Key Machine
 
-Use the Bad key machine on the leftmost locker in the bottom row and the rightmost locker in the top row. This will get you the Pop gun and Holmes hat. Equip both. 
+Leftmost bottom locker and rightmost top locker. Equip both Pop Gun and Holmes Hat
 
-Leave the school and talk to Tony to jump over the gate. 
+Leave the school, jump over Tony
 
-Go into the drugstore and talk to the woman. Agree to buy gum from her. Talk to Bubble Monkey. 
+Go into the drugstore, Talk to the woman and then talk to Bubble Monkey
 
-Walk down near the shores of Lake Tess. Go into the tent on the far left and have some stew. 
+Go to the far left tent and eat stew.
 
-Walk over to the dirt patch on the peninsula to the east to trigger the lake crossing. There are a couple things to watch for: 
-There is a photo shoot between the eastmost tent and the lake. You can avoid it by either going around the north side of the tent or very carefully walking along the southern edge of the tent. 
+Walk to tessie (Avoid photo at third tent)
 
-You want Bubble Monkey to be close to Jeff when you reach the dirt patch. Otherwise, Bubble Monkey will walk very slowly over to Jeff to get his piece of gum. If Bubble Monkey is lagging behind, wiggle a bit to encourage him to catch up. 
+After Tessie, go down-left and hug wall.
 
-After Tessie, walk down and left, then hug the left wall to prevent a Gruff  from spawning  
+Autofight protoplasm, run if it calls for help
 
-Enter the Brick Road dungeon. Take the bottom path to fight the first Worthless Protoplasm. Autofight the Protoplasm to death. Run if it calls for help and you don't kill the first one soon after. 
+Use the Boiled Egg if Jeff took Damage
 
-This is one of the hardest fights in the game, no joke. 
+Try to sneak past the Mad Duck, get croissant near it if low on health
 
-Use the boiled egg after this fight if you took damage 
+Skip the protoplasm.
 
-See if you can sneak past the Mad Duck. None of the enemies in here can ambush you, so don't worry about that. 
-If Jeff is low on health, pick up the Croissant from the gift box near the Mad Duck and eat it. 
+Go through Pond Cave
 
-Try to skip the second Worthless Protoplasm, but don't worry too much if you don't. 
+Hamburger in gift box in first room if Jeff is too low on HP
 
-To set up the skip, walk along the top edge of the path, then, when the Protoplasm starts moving toward you, walk straight down so you're on the row below it and continue going to the left. You will go past the Protoplasm if Bubble Monkey doesn't get caught  
+Get Bottle Rocket from gift box in last room.
 
-Ignore Brick Road and proceed into the cave. 
+Go talk to Dr. Andonuts, say "No" to the first question
 
-Pond cave is full of enemy spawns that all can be stutter stepped away from. over all the passages are too narrow to safely stutter pass them so try to use stutter steps when despawning to reduce the length of ground you have to walk from enemies chasing you. All the enemies here can be stutter stepped around except for the mushrooms. 
+Enter Sky Runner, enjoy 2 minute break.
 
-Only get the Hamburger (from the gift box in the first room) if Jeff is critically low on HP and you're worried about getting into fights in the cave (eat it immediately if you do get it). 
+## Mini Barf
 
-Pick up the Bottle rocket from the gift box near the crystals in the last room. 
-
-Use the Pak of bubble gum near the rope in the last room to climb up. Try to get Bubble Monkey next to Jeff when you do this since Bubble Monkey flies very slowly. 
-
-Go into the lab and talk to Dr. Andonuts. Say, "No," to the first question (the one about the donut). The answer to the second question (about Stonehenge) doesn't matter. 
-
-Enter the Sky Runner and mash A until the Sky Runner lifts off. 
-
-The first Sky Runner cutscene takes a little over 2 minutes and requires no inputs once the Sky Runner has lifted off, so this is a good time for a quick break. 
-
-**Mini Barf** 
 Agree to let Jeff join the party. 
 
 Use the Bad key machine on the door to leave the prison. 
