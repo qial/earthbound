@@ -400,8 +400,6 @@ Buy more bombs so Ness has 3 and Jeff has 2
 
 Leave store and heal at hospital if needed
 
-**Evil Mani-Mani** 
-
 West through park, northwest to cafe.
 
 Talk to hostess, then give protractor to guy outside
@@ -420,7 +418,6 @@ Talk to the sailor guy, then go up to the northeast and talk to the Warp Man nea
 
 Pick up the Night pendant from the nearby gift box and equip it on Ness. 
 
-
 Go through the Warp Man sequence, Before you talk to the guy in black grab the secret herb in the present above him and make sure ness has it. Then talk to the guy in black answering, "No," to the last one's question. 
 
 Talk to the invisible man (say, "No") and then talk to Mr. T. 
@@ -431,51 +428,47 @@ Go west and talk to the Warp Man you talked to earlier (not the one farthest to 
 
 Talk to the sailor guy, then head over to the statue. Make sure you're as far up as you can be when you check the statue so you skip Monotoli's dialogue. 
 
-To fight Mani-Mani: 
-Have Ness throw a Super bomb while Jeff shoots a Big bottle rocket. 
-If Mani-Mani is still alive after that, have Ness use Rockin while Jeff shoots a Big bottle rocket. That really should do it. 
+** Mani Mani **
+- Ness: Super Bomb
+- Jeff: BBR
+- Rockin & BBR if still alive
 
-If Ness is paralyzed, have Jeff launch Big bottle rockets. If Jeff is paralyzed, have Ness use his secret herb on jeff and then use Rockin β. 
+If Ness is paralyzed, just do BBR.
+If Jeff is paralyzed, use secret herb on Jeff then RockinB
 
 **Monkey Cave** 
 
-If Ness was paralyzed, move the Pencil eraser into Jeff's inventory. 
+Move Pencil Eraser to Jeff if Ness Paralyzed
 
-Leave the cafe. Talk to the monkey who crashes into the nearby wall. 
+Talk to monkey, take bus to Dunes, go in Monkey Cave
 
-Walk down to the bus stop and take a bus into Dusty Dunes. 
+Skip Sandwich Right, Picnic Lunch Left
 
-Go into the hole with the monkeys (dodge the mole on the way in). 
+Go in left and get Pizza, then exit.
 
-Give a Skip sandwich to the monkey on the right, then a Picnic lunch to the monkey on the left. 
+Go in right and ignore chests
 
-Go in the left door and get the Pizza out of the chest. Go out the door you just came in. 
+Pizza Right, Protein Drink Left
 
-Go in the right door and proceed to the next set of monkeys. Ignore the chests here. 
+Go in right, get Hamburger chest, continue.
 
-Give a Pizza to the right monkey and a Protein drink to the left monkey. 
+Ruler left, go in and get King Banana, exit
 
-Go in the right door. Pick up the Hamburger from the chest and continue into the next room. 
+Backtrack to last set of monkeys
 
-Give Jeff's Ruler to the monkey on the left and go in. Get the King banana from the monkey inside. 
+Go in left, ignore chests, continue
 
-Go back out to the last group of two monkeys, and this time, go in the left door. Ignore the chests you pass. 
+King Banana right, Hamburger left
 
-Give the King banana to the right monkey and the Hamburger to the left monkey. 
+Go in left and get Dragonite, exit
 
-Go in the left door and get the Bag of Dragonite from the chest. 
+Go in right, use eraser, talk to both monkey and tala rama.
 
-Go back in the right door. Use the Pencil eraser. 
+Get both chests before you leave to learn teleport
 
-Talk to Talah Rama and the monkey. 
+Learn Teleport, teleport to fourside.
 
-Get the Cup of Lifenoodles and Brain food lunch from the chests. Both should go into Ness's inventory. 
-
-Walk out. Talk to the monkey on the left, then follow it down to the street and talk to it again (dodge the mole). 
-
-Teleport into Fourside. 
-
-**Clumsy Robot** 
+## Monotoli Building 
 
 Talk to Electra in front of the Monotoli Building. 
 
