@@ -172,14 +172,11 @@ Exit (avoid photo) and get on the bus.
 
 ## Threed
 
-Go to the graveyard to the Northwest of town. Use the gravestones to help you block possible spawns. 
+Go to graveyard & see zombies
 
-Walk up to the zombies at the northwest end of town and let them see you (watch for when they turn around). Go back to the hotel and follow the woman inside. 
+Go to hotel and get bonk'd (full heal here)
 
-There are no spawn tiles between the north row of tombstones and the trees, so it's easiest to walk through there. 
-Watch out for flies spawning behind the trees near the zombies. If you see flies up there, try walking down toward the dead tree (you don't need to walk all the way down) to despawn them. 
-
-Follow the woman into the room on the left. Note that all party members are healed and if either party member is dead they will be revived at this point. Try to leave the prison once you've been captured. 
+Try to escape
 
 **Jeff's Adventures in Winters** 
 
@@ -1001,7 +998,7 @@ Go back to the main path and continue on. Your sandwich should run out just befo
 
 Run all the way to the end of the path. 
 
-When you reach the Sea of Eden, equip the Magicant bat and Sea pendant.  
+Sea of Eden, equip the Magicant bat and Sea pendant.  
 
 Wait for the first Kraken to get far enough down and to the right that you can slip by it. 
 
@@ -1036,13 +1033,11 @@ Use the Meteorite piece on Dr. Andonuts.
 
 Stay in the hotel. 
 
-Talk to Dr. Andonuts twice, saying both times that you're ready. 
-
-Get in the Phase Distorter. 
+Talk to Dr. Andonuts twice, Get in Phase Distorder
 
 If you're out of Cups of Lifenoodles, check the wrecked Phase Distorter for a Horn of Life. 
 
-Walk halfway on upper peninsula, then back to spawn conversations. Talk to Andonuts to go to past.
+Walk halfway on upper peninsula, then back.
 
 ## Cave of the Past
 
@@ -1057,17 +1052,32 @@ Give the horn of life or a cup of life noodles to Poo
 
 Equip the Night pendant on Ness, the Sea pendant on Paula, and the Rabbit's foot on Jeff. 
 
-Giygas phase 1: 
-Have Ness paralyze pokey, Paula use Psi Shield Σ, and Jeff shoot a Multi bottle rocket at Pokey. Have Poo use the Lifenoodles or horn of life on Paula. (this is just in case Giygas opens with Rockin B and kills Paula 
+#### Giygas phase 1: 
+**Turn 1**
+- Ness Paralyze Pokey
+- Paula use Psi Shield Sigma
+- Jeff MBR at pokey
+- Poo lifenoodles or horn of life on Paula
 
-On the next turn, Ness can heal someone, bash Pokey, throw another Super bomb, or continue with Paralysis if it didn't work the first time. Paula can use her strongest Freeze . Jeff should fire another rocket. If Poo has more than 93 PP, he can use Freeze β on Pokey; otherwise, he should defend. 
+**Turn 2**
+- Ness paralyze if didn't work, bash, throw super bomb, or heal
+- Paula strongest Freeze
+- Jeff MBR
+- Poo freezeB if > 93PP, otherwise defend
 
-If the fight continues, have Ness keep bashing, Paula keep freezing, and Jeff keep shooting (unless he's out of rockets). Three rockets plus the other damage should be enough... 
+**Next Turns**
+- Ness keep bashing
+- Paula keep freezing
+- Jeff MBRs
 
-Giygas phase 2: 
-Have Ness use his strongest Rockin, Paula use her strongest Freeze, Jeff defend, and Poo use Starstorm Ω. Repeat. 
+####Giygas phase 2: 
+- Ness strongest Rockin
+- Paula strongest freeze
+- Jeff defend
+- Poo use StarstormO
+- Repeate until dead
 
-Giygas phase 3: 
+####Giygas phase 3: 
 
 Have Ness use Lifeup on Paula if she's low on HP.  
 Have Paula pray until you win while the others defend. 
