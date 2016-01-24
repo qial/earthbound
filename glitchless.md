@@ -214,237 +214,203 @@ Enter Sky Runner, enjoy 2 minute break.
 
 ## Mini Barf
 
-Agree to let Jeff join the party. 
+Jeff Joins, use Bad Key Machine to leave
 
-Use the Bad key machine on the door to leave the prison. 
+Go Out Northeast corner and get Teddy Bear
 
-Go out the northeast corner of the graveyard. 
+#### Boogie Tent:
+- Ness Rockin
+- Paula FireA or Freeze
+- Jeff BBR
+- Repeat for round 2
+- Round 3, Ness rockin/heal, Paula pray
 
-Get the Teddy bear from the garbage can. 
+Get fly Honey
 
-This makes the Threed tunnel safer. If you are going for a top-tier time, you might want to skip this for now and pick it up before Shrooom! instead. 
+Arms Dealer:
+- Sell Defense Spray from Jeff
+- Buy 4 BRs for jeff (+1 if used one on boogie)
+- Buy toy air gun (OPTIONAL)
 
-Cut back southwest, past the (real) circus tent and then go south to reach Boogey Tent. 
+Go up right side of tent for Apple Kid call
 
-Have Ness use Rockin and Jeff fire his Big bottle rocket. If you got in fights earlier and Paula knows Psi Fire α, have her use that; otherwise, have her use freeze for the chance to solidify. If you don't win on the first turn, have Ness use Rockin again, Paula either use Fire or freeze again, and Jeff fire his Bottle rocket. If that still doesn't do it, have Ness use Rockin (or heal people) and Paula pray. 
-Pick up the Jar of Fly Honey. 
+Go to Circus for Zombie Paper delivery
 
-Go up through the gap to the left of the hospital. Walk behind the building on the left and talk to the arms dealer. 
+Sleep in hotel
 
-Sell the Defense spray (from Jeff's inventory). 
+Go to tunnel, avoid flies and dogs
 
-Buy 3-4 Bottle rockets for Jeff (+1 if you used one on boogey tent) 
-Optional: buy the toy air gun 
+- Zombies: fire + Rockin.
+- Dogs: Freeze, or hypnotize if alone
 
-Walk up past the right side of the circus tent to trigger the call from Apple Kid. 
-Walk back down in front of the entrance to the circus tent and wait for the Zombie paper to be delivered. 
+Get Skip Sandwich from first coffin.
 
-Enter the tent. 
-
-Use Zombie paper 
-
-Leave the tent, go up to the hotel and stay the night. 
-(There is a ATM here if needed) 
-
-Walk to the entrance to the tunnel at the northwest side of town. 
-Go through the tunnel. Despawning enemies in the large rooms is tricky and somewhat risky since enemies can spawn on top of you in the corridors. Therefore, if you can't get an empty room, you may want to tolerate having only a couple zombies in the room. Try to avoid flies and zombie dogs. 
-You can use Fire + Rockin on Urban Zombies. If you bought the toy air gun have ness and jeff bash while paula uses fire. 
-
-You can use Freeze on Zombie Dogs. If you get in a fight with a single Zombie Dog, you can hypnotize it and then run. 
-
-Depending on how many enemies there are in the rooms, try to get the Skip sandwich DX from the first coffin. 
-
-Fight Mini-Barf. Have Ness use Rockin, Paula use Fire, and Jeff fire Bottle rockets. Use up all of Jeff's Bottle rockets if you have to. 
+Mini-Barf:
+- Ness, Rockin
+- Paula, Fire
+- Jeff BRs, use all if needed
 
 **Master Belch** 
 
+Go to Saturn Valley
 
-Go through the tunnel into Saturn Valley. If you get a cockroach by the entrance to the tunnel, and Paula has at least 4 PP (she should after leveling from Mini Barf), just fight it and freeze it to death. Do the same if you get one in the last room. Try to despawn the others. 
+Fight & freeze cockroaches if Paula has > 4 PP
 
-If you picked up any Tiny Lil' Ghosts, or if anyone died, visit Dr. Saturn in the yellow building. 
+Heal in hotel (and deghost in hospital if needed)
 
-Stay in the hotel (the red building) to restore everyone's HP/PP. 
+Learn waterfall password
 
-Talk to the middle Mr. Saturn (not the one who's fixed in place near the top ladder) to learn the password to the waterfall. 
+Go to falls, freeze cockroach in first room, despawn after
 
-Go back through the tunnel. If you get a cockroach in the first room, freeze it. Despawn the others. 
+3 Minute Break
 
-Go in and out of the exit of the tunnel until there aren't any enemies in the way, then go north to the waterfall. 
+Belch Base:
+Foppies. 1) bash, 2) freeze & bash, 3) rockin & fire
+Heal up in butterfly room if PP needed
 
-Be extremely careful not to touch the D-pad in the next three minutes. 
+If flies on left when going around guard, he'll be alone if you fight him.
 
-This is the run's official bathroom break. 
+Belch:
+1) Fly honey used, everyone defend
+2) Ness use herb if needed or rockin.
+   Paula Freeze beta
+   Jeff BR/defend
+3) Ness rockin/defend depending on how close to 650 damage
+   Paula Freeze beta
+   Jeff BR/defend
 
-Enter Belch's base. Tell the guard that you have Fly Honey or he'll fight you. 
+Treat any lingering nausea now. Lifeup anyone low
 
-Don't worry about despawning Foppies around the ladder since you probably won't succeed. 
+Exit mouse out
 
-If you get in a fight with one foppy bash it to death. If there are 2 have Paula freeze one while jess and jeff bash the other 
+Walk south, get first gift box (Protein Drink) and move to Ness
 
-For three or more Foppies, have Ness use Rockin and Paula use Fire. 
+Go to south bus stop, ride bus to desert
 
-Go left toward Belch. Stop in the one room on the main floor for a magic butterfly if Paula is low on PP  usse Freeze on Slimy Little Piles and anything you can on flies (NOTE: you cannot run from Slimy Little Piles, even if you ambush them). 
+Stutter past mole, head into desert
 
-As you get near the guard, try to stutterstep around him. If you see flies on the left when you try fight the guard as he will always be alone 
+Stay south along rocks while heading east
 
-Fight Master Belch. 
+Get BBR from gift box before shack
 
-For the first round, have the party member with Fly Honey use it on Master Belch and all other party members defend. 
+Talk to Gerardo
 
-In the second round, have Ness use a Refreshing herb if someone become nauseous; otherwise, he can use Rockin. Paula should use Freeze β and Jeff should fire a Bottle rocket if he still has one. 
+Continue to Fourside
 
-In the third round, have Ness use Rockin or defend, depending on how close you are to finishing off Belch's 650 HP. Paula should use Freeze β. Jeff should fire a Bottle rocket if he still has any left, or defend if not. 
+Go to theatre, buy show ticket
 
-If you didn't get the chance to use a Refreshing herb during the fight for some reason, treat any lingering nausea now. Also use Lifeup if anyone is really low on HP. 
+Inventory:
+- Give Paula backstage pass, pack of gum, and bad key machine
+- Give Ness's BBR to Jeff
 
-Use the Exit mouse to get out. 
+Give Show Ticket to guy
 
-**Mine Entrance** 
+Talk to manager in office, then return to mine
 
-On the way back to Threed, pick up the Protein drink from the first gift box you pass (the north one). Ness should get it. If he doesn't, clear out whatever extra item is in his inventory and move the Protein drink to him (he needs it for later). 
+## Mine
+- Snakes & Ants: Freeze
+- Noose/Ducks: Fire/rockin
 
-Back in Threed, check the sign on the south side of the street to pick up a bus into Dusty Dunes. 
+Mole 1: Defend, FreezeB, BBR
+Mole 2: Defend, FreezeB, BBR
+Mole 3-5: Ness lifeup Paula, FreezeB, Jeff defend
 
-Stutter-step past the Mole Playing Rough. 
+Walk North all the way, go down Ladder.
 
-Go east through the desert, sticking close to the rocks to minimize the risk of battles. 
+Left to Mole 1. Lifeup after
 
-Pick up the Big bottle rocket from the gift box before the shack. 
+Go up ladder, then go all the way south around the bend.
 
-Stop in the shack and stay the night to recover everyone's HP and PP. 
+Get BBR on way up, give to Jeff
 
-Talk to Gerardo outside the shack. Feed him Paula's Bread roll. 
+Continue up and go down ladder, fight Mole 2
 
-Walk into Fourside and buy a ticket at the Topolla theater (from the guy on the right). 
+Go back up the ladder, walk to central area with Exit Mice
 
-Walk to the guy blocking the gap by the counter and... 
+Get Picnic Lunch from north/west box. Give to Ness
 
-Have Ness give the Big bottle rocket to Jeff. 
-give paula the backstage pass, the pack of gum, and the bad key machine.  
+Go north for Mole 3
 
-Use the Show ticket on the guy. 
+Secret Herb in eastward path if Ness or Paula dies
 
-Go into the office on the left and talk to the theater manager. 
+From Exit Mice, take left then down path. Take single fights
 
-Leave and walk back into the mine. 
+Fight Mole 4
 
-Note: at this point of the run ness has a chance of getting homesick. If this happens find a phone and call your mom twice( the first time wont cure it) 
+If Paula is low on PP, get PSI Caramel from behind mole.
 
-**Mine** 
+Go back to Exit Mice and get one
 
-Note: keep in mind that you can stutterstep away from the snakes and gigantic ants 
+Take path south to Mole 5. Despawn and hope.
 
-If you get in fights with snakes or gigantic ants use freeze on them. Noosemen and ducks use fire/rockin 
-
-Walk all the way to the top. Keep going up at the fork. Go down the ladder. 
-
-Go to the left to fight a mole. Have Ness defend while Paula uses Freeze β and Jeff fires the Big bottle rocket. Lifeup whoever got hit by the mole after the fight 
-
-Take the ladder on the left up. 
-
-Go down and around the bend. 
-Pick up the Big bottle rocket on the way back up and give it to Jeff. 
-
-Continue up, ignoring the center area to the left, and go down the ladder at the end of the hallway. 
-
-Walk up toward the mole. Stay along the bottom wall and wiggle to pull the mole out toward you, so enemies aren't as likely to spawn behind you. Again use Freeze β + a Big bottle rocket to defeat the mole. Lifeup whoever may have gotten hit after the fight. 
-
-Go back up the ladder you took to get in. Walk over to the central area with the Exit mice. 
-
-Pick up the Picnic lunch from the gift box to the north/west. Ness should get it. 
-
-Walk up toward the third mole. Again try to draw it toward you so the spawn tile behind you doesn't activate. 
-for this mole fight on have ness lifeup paula every turn(even if she is at max hp) have Paula use Freeze B twice and have jeff defend. 
-
-NOTE: there's a Secret herb just southeast of this mole. You can pick it up if Paula or Ness dies, but you will have to deal with enemies spawning behind you. If Jeff is dead, you're probably better off healing him at the hospital later. 
-
-Go back down by the Exit mice. Take the path on the left and go down. A lot of enemies spawn in this area, so if you get a single Gigantic Ant or Thirsty Coil Snake, you may want to just fight it and move on (Freeze β should one-shot it). Draw this mole toward you as well. Use the same strategy as for the previous mole. (if paula is out of pp there is a psi caramel here but there is a chance of enemies spawning behind you so only get it as a last resort) 
-
-Go back to the central area. Get an Exit mouse. 
-
-Take the path down to the last mole. This is another very enemy-rich area, but it's trickier because you have to deal with Noose Men, who aren't vulnerable to Freeze. Therefore, you usually want to despawn enemies here. If you get a spawn with only Mad Ducks, you can try to sneak past them or fight, but be careful because offscreen Noose Men can join the fight if they are around. the ducks here have a 25% chance of taking aggro towards you so use this towards your advantage. 
-
-When you finally reach the last mole, use the same strategy as for the previous two. 
-
-Pick up the Platinum band from the gift box on the left and equip it to Ness. 
+Left Gift box has Platinum Band
 
 Inventory management: 
 
 Ness: 
-Drop the Sand lot bat. 
-Drop any remaining Refreshing herbs.  
-You want Ness to have at least 3 open inventory slots at the end of this inventory sequence. 
+- Drop the Sand lot bat. 
+- Drop Refreshing Herbs
+- Equip Platinum Band  
+- Ensure 3 inventory slots 
 
 Jeff: 
-Drop the Boiled egg if you somehow haven't used it yet. 
-Drop the Holmes hat. 
-Move Pack of Bubble Gum and Bad Key Machine to Paula. 
-Only items Jeff should have are his gun, the ruler, and the protractor 
+- Drop Boiled Egg
+- Drop Holmes Hat
+- Only keep gun, ruler, & protractor
 
-Whoever has Fly Honey, give to Paula. 
+Paula:
+- Give her Bad key, Gum, and Fly Honey
 
-Use the Exit mouse and leave the mine. 
+Use the Exit mouse
 
-After leaving the mine, talk to Gerardo. Don't forget to do this! 
+Talk to Gerardo 
 
-Stay at the shack unless both Ness and Paula have at least 40-ish PP remaining, and Ness and Jeff are close to full health. 
-
-If you are new to running the game, you should always stay at the shack. 
-You want Ness and Jeff to be in good shape to get through Fourside, and you want Paula to be ready for Shrooom! 
+Stay at the shack
 
 **Dept. Store Spook** 
 
-Walk back to the Topolla Theater. Buy a Show ticket and use it. 
+Walk to Fourside, go to Theatre.
 
-Go into the office. Walk behind the counter and use the Diamond on the theater manager. 
+Use Diamond on the manager, then watch show
 
-Go into the main hall and watch the show. 
+Go to Department store, withdraw at least $9k
 
-Leave the theater and go into the department store. 
+Arms Dealer:
+- Jeff
+  - Hyper Beam
+  - 3 Super Bombs
+  - 4-5 BBRs
+- Paula
+  - 3-4 Super Bombs
+  - 4-5 BBRs
+- Ness
+  - Fill with super bombs
 
-Withdraw at least $9000 from the ATM on the bottom floor. 
+Go down and safety save, then trigger kidnapping
 
-Typically, you'll have at least $10000 by this point. 
+One enemy: Jeff BBR, maybe ness Super Bomb
+Two+: Ness super bomb left, jeff super bomb right
 
-Take the escalator up and talk to the arms dealer in the side room on the second floor. 
+Spook:
+- Ness Super Bomb
+- Jeff BBR
+- Use second BBR if needed
 
-Buy the hyper beam for Jeff selling his previous weapon 
-Buy 3 Super bombs and 4-5 Big Bottle Rockets for Jeff. 
-Buy 3-4 Super bombs and 4-5 Big Bottle Rockets for Paula. 
-Fill Ness' remaining inventory with Super Bombs. 
+Buy more bombs so Ness has 3 and Jeff has 2
 
-Take the escalator back down and walk far enough right to trigger the kidnapping. 
-
-For races or casual runs, making a safety save before triggering the kidnapping is recommended. 
-
-Go up to the top of the store. You should be able to dodge the presents on the second and third floors (though there usually aren't any on the third floor). 
-
-At the top of the last escalator, you will very likely get in a fight. 
-
-If there is more than one enemy, have Ness throw a Super bomb at the enemy on the left and Jeff throw one at the enemy on the right. If that doesn't do it, use more Super bombs. 
-
-If there is only one enemy, Jeff can probably take it out with a Big bottle rocket. You may also want Ness to throw a Super bomb to be sure. 
-
-There is a good chance you will die here. It happens. 
-
-Once you finish that fight, walk down to the bottom edge of the floor and walk under the toy display, so the enemies that likely spawned in the middle of the room can't catch you. 
-
-Fight Dept. Store Spook. Have Ness throw a Super bomb and Jeff launch a Big bottle Rocket. Shoot another Big bottle Rocket if that somehow doesn't do it. 
-
-If you used more than 3 super bombs at this point buy more so that Ness has 3 and Jeff has 2 
-Leave the department store. 
+Leave store and heal at hospital if needed
 
 **Evil Mani-Mani** 
 
-If Ness or Jeff is dead you can stop on the hospital on the way to the cafe to revive them. 
+West through park, northwest to cafe.
 
-Walk west through the park, then northwest to the cafe. Talk to the hostess on the far right to spawn Everdred outside. 
+Talk to hostess, then give protractor to guy outside
 
-Go outside and talk to the guy with the hair covering his eyes on the right. Give him Jeff's protractor. 
+Talk to everdread, say "No" to hearing story again
 
-Talk to Everdred. Make sure to say you don't want to hear his story again. 
+Go to Moonside
 
-Go back into the cafe and check the wall behind the counter (don't get too close to the bartender or you'll talk to him instead). 
+## Moonside
 
 Leave the Moonside cafe. Try to get past the Robo-Pump that spawns here. If it fights you either try to run away or use a Big Bottle Rocket 
 
